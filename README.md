@@ -13,7 +13,7 @@ This website is a bold step in my ongoing journey of web development. Crafted wi
 
 ## Current Status
 
-This is an initial version of the site. It's rough around the edges and very much a work in progress. As I continue to refine and expand it, expect significant changes and improvements.
+This is an initial version of the site. It's rough around the edges and very much a work in progress. As I refine and expand it, I expect significant changes and improvements.
 
 ## What's Next?
 
@@ -21,15 +21,11 @@ This is an initial version of the site. It's rough around the edges and very muc
 - **Features**: New interactive elements and content.
 - **Performance**: Optimizations for faster load times and smoother interactions.
 
-Feel free to explore, provide feedback, or join me on this development journey. Your insights are invaluable as I work towards making this project better with each iteration.
+Feel free to explore, provide feedback, or join me on this development journey. Your insights are valuable as I work towards improving this project with each iteration.
 
 ## Getting Involved
 
 If you’re interested in contributing or just want to track progress, check back regularly. Contributions, suggestions, and critiques are always welcome!
-
-## Contact
-
-For any questions or to offer feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
 
 Happy exploring!
 
