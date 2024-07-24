@@ -33,3 +33,4 @@ For any questions or to offer feedback, please reach out to [your-email@example.
 
 Happy exploring!
 
+# scaling-palm-tree
